@@ -1,0 +1,18 @@
+{
+  "date": "2026-11-01",
+  "demo": "https://urdume-gustapaz.starrylinen.chatgpt.site",
+  "application_commit": "877482f633450752864d078255d356ff582f1aad",
+  "automated_tests": 20,
+  "public_smoke": "passed",
+  "browser_flow": "passed",
+  "responsive_widths": [
+    390,
+    768
+  ],
+  "export": {
+    "filename": "urdume.svg",
+    "bytes": 133087,
+    "sha256": "15e1aa578a26ac192bef439d157e3cdd1892b57d1ff3d8dfbe0d89e38c720278",
+    "structure": "passed"
+  }
+}
